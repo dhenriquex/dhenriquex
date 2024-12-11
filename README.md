@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Meu nome é Daiv, sou estudante de Ciência da Computação e tenho 19 anos.<br>Tenho uma grande paixão por aprender novas tecnologias e explorar o vasto universo da programação.</p>
+<p align="left">Olá! Meu nome é Davi, sou estudante de Ciência da Computação e tenho 19 anos.<br>Tenho uma grande paixão por aprender novas tecnologias e explorar o vasto universo da programação.</p>
 
 ###
 
